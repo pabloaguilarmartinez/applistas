@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppListaSeñales", "AppListaSeñales\AppListaSeñales.csproj", "{BE81F320-6FFC-4D8C-82C2-488F86762564}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE81F320-6FFC-4D8C-82C2-488F86762564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE81F320-6FFC-4D8C-82C2-488F86762564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE81F320-6FFC-4D8C-82C2-488F86762564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE81F320-6FFC-4D8C-82C2-488F86762564}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB82C069-DFC5-4397-8F95-822F0A01C6E8}
+	EndGlobalSection
+EndGlobal
